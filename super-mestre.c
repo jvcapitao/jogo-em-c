@@ -1,6 +1,5 @@
-#include <stdio.h>
 
-iint main(){
+int main(){
 
     
     // VARIAVEIS
@@ -159,3 +158,4 @@ iint main(){
     return 0;
 
 }
+
